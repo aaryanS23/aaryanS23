@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaryanS23
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning BS in Data Science
+- 🌱 I’m currently learning BS in Data Science and Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 23survearyan@gmail.com
 
